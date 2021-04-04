@@ -8,3 +8,6 @@ Je sépare le jeux et les layouts en deux packages car ce ne sont pas des classe
 
 ## **Javadoc** 
 Permet de documenter mon code
+
+## **Executable**
+L'éxecutable se trouve dans out/artifacts/Tamagoshi_jar/Tamagoshi.jar
